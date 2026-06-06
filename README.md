@@ -1,121 +1,160 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Pratyush Raj</h1>
+<h3 align="center">I code because I want to.</h3>
 
-# Hi, I'm Pratyush Raj 👋
-
-### Third-Year Undergraduate @ IIT Kharagpur
-
-*Artificial Intelligence • Machine Learning • Deep Learning • Algorithms • Web Development*
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&width=700&lines=Civil+Engineering+%40+IIT+Kharagpur;AI%2FML+Enthusiast;Deep+Learning+Enthusiast;Competitive+Programmer;Aspiring+Game+Developer;CUDA+%7C+OpenGL+%7C+C%2B%2B+%7C+Python" />
+</p>
 
 ---
 
-## About Me
+##  About Me
 
-I am a third-year undergraduate at IIT Kharagpur passionate about building intelligent systems and solving real-world problems through AI, optimization, and software engineering.
-
-My interests span:
-
-- Artificial Intelligence & Machine Learning
-- Deep Learning
-- Data Structures & Algorithms
-- Web Development
-- Optimization & Simulation
-
-I enjoy combining mathematical reasoning, algorithmic thinking, and software development to create impactful solutions.
+-  Third-year **Civil Engineering** undergraduate at **IIT Kharagpur**
+-  Passionate about **AI/ML, Deep Learning, DSA, Software Development, Operating Systems, Cybersecurity, Competitive Programming, and Game Development**
+-  Currently learning **Data Structures & Algorithms, Game Development, and Advanced AI concepts**
+-  Working on research at the intersection of **Virtual Reality and Deep Learning**
+-  Interested in building systems that combine **simulation, AI, graphics, and optimization**
+-  Developed GPU-accelerated simulations using **CUDA**
+-  Solving problems on LeetCode and building projects that challenge my understanding of software systems
 
 ---
 
-## Tech Stack
+##  Currently Working On
+
+-  Researching **Weight Sensation in VR using LSTMs**
+-  Strengthening DSA and Competitive Programming skills
+-  Exploring Game Development and Simulation Systems
+-  Building AI-powered projects and tools
+
+---
+
+##  Tech Stack
 
 ### Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,python" />
 </p>
 
 ### Tools & Technologies
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,linux,unity,pytorch" />
+</p>
+
+### Libraries & Frameworks
+
+- CUDA
+- OpenGL
+- NumPy
+- Pandas
+- Scikit-Learn
+
+---
+
+##  Research
+
+### Weight Sensation in VR using LSTM
+**Ongoing Research Project**
+
+This project explores how Deep Learning can be integrated into Virtual Reality environments to induce the sensation of weight while interacting with virtual objects. An LSTM model is incorporated into an animation rig to enhance realism and improve user perception.
+
+🔗 Repository:  
+https://github.com/devraj-1234/weight_sensation_VR_LSTM
+
+---
+
+## 📌 Featured Projects
+
+###  Ambulance Dynamic Reallocation using Slime Mold Simulation
+
+A simulation framework that generates approximate emergency-demand heatmaps from an ingested city map and dynamically reallocates ambulances during disaster situations.
+
+A GPU-accelerated version was developed using CUDA for large-scale simulation and faster computation.
+
+**Tech Stack**
+- C++
+- CUDA
+- OpenGL
+
+🔗 Repository:  
+https://github.com/mainpratyushhoon/Slime-Mold-Implementation
+
+---
+
+###  DinoAI
+
+A Genetic Algorithm-driven AI that evolves over generations and learns to play a clone of the Chrome Dino game autonomously.
+
+**Tech Stack**
+- Python
+- Pygame
+- Genetic Algorithms
+
+🔗 Repository:  
+https://github.com/mainpratyushhoon/DinoAI
+
+---
+
+##  Competitive Programming
+
+### LeetCode
+
+- Regularly solving DSA and algorithmic problems
+- Focused on strengthening problem-solving and interview-oriented skills
+- 100+ solved problems and growing
+
+🔗 Profile:  
+https://leetcode.com/u/mainpratyushhoon/
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mainpratyushhoon&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainpratyushhoon&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mainpratyushhoon&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## Featured Projects
+## 📈 Activity Graph
 
-### 🚑 Dynamic Ambulance Reallocation
-
-Optimization-driven ambulance deployment system using Slime Mold Simulation techniques to improve emergency response efficiency.
-
-**Tech:** Python · Simulation · Optimization
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mainpratyushhoon&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-### 🥽 Weight Sensation in Virtual Reality
+## 🐍 Contribution Snake
 
-Developed an LSTM-based framework for modeling and predicting perceived weight in virtual environments.
+```yaml
+Add the following GitHub Action to generate a contribution snake:
 
-**Tech:** Python · Deep Learning · LSTM
-
----
-
-### 🦖 DinoAI
-
-AI-powered agent capable of autonomously playing the Chrome Dino game using intelligent decision-making and optimization strategies.
-
-**Tech:** Python · AI · Automation
+https://github.com/Platane/snk
+```
 
 ---
 
-## Currently Exploring
-
-- Reinforcement Learning
-- Large Language Models
-- Advanced Deep Learning Architectures
-- Scalable AI Systems
-- Agentic AI
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mainpratyushhoon&show_icons=true&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainpratyushhoon&layout=compact&hide_border=true"/>
-
-</div>
-
----
-
-## Philosophy
-
-> Building systems that solve meaningful problems through intelligence, optimization, and continuous learning.
-
----
-
-## Connect
+## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/mainpratyushhoon">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white">
-  </a>
+  <a href="https://github.com/mainpratyushhoon">GitHub</a> •
+  <a href="https://linkedin.com/in/pratyush-raj-iitkgp">LinkedIn</a> •
+  <a href="mailto:pratyush.r.24@kgpian.iitkgp.ac.in">Email</a> •
+  <a href="https://leetcode.com/u/mainpratyushhoon/">LeetCode</a>
 </p>
 
 ---
 
-<div align="center">
+## 👀 Profile Views
 
-### Build • Learn • Iterate
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mainpratyushhoon&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-</div>
+---
+
+> "I code because I want to."
