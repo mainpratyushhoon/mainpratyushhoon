@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pratyush Raj</h1>
-<h3 align="center">I code because I want to.</h3>
+<h3 align="center">3rd year undergraduate @IIT Kharagpur</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&width=700&lines=Civil+Engineering+%40+IIT+Kharagpur;AI%2FML+Enthusiast;Deep+Learning+Enthusiast;Competitive+Programmer;Aspiring+Game+Developer;CUDA+%7C+OpenGL+%7C+C%2B%2B+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&width=700&lines=I+code+because+I+want+to;AI%2FML+Enthusiast;Deep+Learning+Enthusiast;Competitive+Programmer;Aspiring+Game+Developer;CUDA+%7C+OpenGL+%7C+C%2B%2B+%7C+Python" />
 </p>
 
 ---
