@@ -130,11 +130,9 @@ https://leetcode.com/u/mainpratyushhoon/
 
 ## 🐍 Contribution Snake
 
-```yaml
-Add the following GitHub Action to generate a contribution snake:
-
-https://github.com/Platane/snk
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mainpratyushhoon/mainpratyushhoon/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
